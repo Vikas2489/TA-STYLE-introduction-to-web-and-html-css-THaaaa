@@ -1,0 +1,17 @@
+body {
+    background-color: seagreen;
+    
+}
+
+h1 {
+    color: white; 
+}
+
+.makegreen{
+    color:  pink;
+}
+
+.makepink{
+    color: rgb(10, 6, 236);
+}
+
